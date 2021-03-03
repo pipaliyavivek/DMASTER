@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Slpashscreen.unity
+    guid: 4e1c30ce7a8b01c4493605899d3d8408
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 67ac6bc8cafe1fd42b1755d457cd42a2
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 7a03b480296e81445bfccfd561e9a1a4
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: cc11180ebf22b50488eb26e935c92181
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 4fc9a79917771c143a8adcef0451db43
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: ad9c1f6a35273574ab554817009526f9
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 5c362971cb359f74c8dbea00e840627b
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen.unity
+    guid: c02e30ecdaa82894e8df3d9b354f22c6
+  m_configObjects: {}
